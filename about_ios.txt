@@ -3,10 +3,18 @@
 The is my short comprehension on iOS.
 
 	1st, what is iOS.
-		iOS is a operating system issued by Apple co., and is an union os that can be used on Iphone, Ipod touch, Ipad. So now we can find that most apps that can run in them all well.
+		iOS is a operating system issued by Apple co., and is an union
+ os that can be used on Iphone, Ipod touch, Ipad. So now we can find that most
+ apps that can run in them all well.
 
 	2nd, what can iOS do.
-		Apps running on iOS are compiled based on Objective-c.It's an language which is similar with C.It means that if you have been familiar with C, so that you can be acquainted with Objective-C in a short time.And then you can create thousands of different programs which can run on Iphone,Ipod touch or Ipad.Let thousands of people find the joyness.In a words,iOS is the platform for app running.
+		Apps running on iOS are compiled based on Objective-c.It's an 
+language which is similar with C.It means that if you have been familiar with 
+C, so that you can be acquainted with Objective-C in a short time.And then you
+ can create thousands of different programs which can run on Iphone,Ipod touch
+ or Ipad.Let thousands of people find the joyness.In a words,iOS is the platform
+ for app running.
 
 	3rd, how to program on iOS.
-		Objective-c is the basic knowledge of programming.Just learn,learn,learn.
+		Objective-c is the basic knowledge of programming.Just learn,
+learn,learn.
