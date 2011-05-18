@@ -1,0 +1,237 @@
+ThelloUser
+v7
+r0
+t327382135.299895
+cCheck dependencies
+cProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/Info.plist helloUser-Info.plist
+cCompileXIB /Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib
+cCompileXIB /Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib
+cProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch.gch helloUser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/helloUser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserAppDelegate.o /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserViewController.o /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.h
+c000000004DD3355400000000000001E9
+t1305687380
+s489
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m
+c000000004DD335540000000000000AB2
+t1305687380
+s2738
+i"helloUserAppDelegate.h"
+i"helloUserViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.h
+c000000004DD3390C0000000000000157
+t1305688332
+s343
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m
+c000000004DD33C6000000000000006AB
+t1305689184
+s1707
+i"helloUserViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib
+c000000004DD335540000000000004E41
+t1305687380
+s20033
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app
+t2
+s0
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app.dSYM
+t2
+s0
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/Info.plist
+t1305689329
+s599
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/MainWindow.nib
+t1305689330
+s1685
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/PkgInfo
+t1305689329
+s8
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/helloUser
+t2
+s0
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/helloUserViewController.nib
+t1305689331
+s4064
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUser.LinkFileList
+c000000004DD33CF100000000000001B8
+t1305689329
+s440
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserAppDelegate.o
+t1305689335
+s51520
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserViewController.o
+t2
+s0
+
+N/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/main.o
+t1305689334
+s6328
+
+N/Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib
+c000000004DD33B500000000000006467
+t1305688912
+s25703
+
+N/Users/yanlang/Documents/ios_learning/helloUser/helloUser_Prefix.pch
+c000000004DD3355400000000000000BB
+t1305687380
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/helloUser/main.m
+c000000004DD335540000000000000169
+t1305687380
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch.gch
+t1305689334
+s15814064
+
+NhelloUser-Info.plist
+c000000004DD33554000000000000038D
+t1305687380
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327382128#327382129#0(0"0(0#1#0"8619356352#0"0#
+
+CCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserAppDelegate.o /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327382134.822142
+e327382135.089782
+r1
+xCompileC
+xbuild/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserAppDelegate.o
+x/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m327382134#327382135#0(0"0(0#0#78"/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m8619773120#2093"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserAppDelegate.m -o /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserAppDelegate.o0#
+
+CCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserViewController.o /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327382135.089868
+e327382135.299821
+r0
+xCompileC
+xbuild/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserViewController.o
+x/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m: In function '-[helloUserViewController sayHello:]':
+o/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m:54: error: expected ';' before 'nameField'
+lSLF07#2@89"Compile /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m327382135#327382135#0(260"/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m: In function '-[helloUserViewController sayHello:]':/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m:54: error: expected ';' before 'nameField'1(4@31"Expected ';' before 'nameField'327382135#135#125#0(6@81"/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m327381984#54#0#54#0#19"expected * before *0(0#0#81"/Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m8614951360#2099"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/helloUser/Classes/helloUserViewController.m -o /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/helloUserViewController.o1#
+
+CCompileC build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/helloUser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327382134.527706
+e327382134.822048
+r1
+xCompileC
+xbuild/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/main.o
+x/Users/yanlang/Documents/ios_learning/helloUser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/yanlang/Documents/ios_learning/helloUser/main.m327382134#327382134#0(0"0(0#0#54"/Users/yanlang/Documents/ios_learning/helloUser/main.m8602740832#2053"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/helloUser/main.m -o /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib
+s327382129.091151
+e327382130.451059
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327382129#327382130#0(0"0(0#0#62"/Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib8619610944#599"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/MainWindow.nib /Users/yanlang/Documents/ios_learning/helloUser/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib
+s327382130.451141
+e327382131.478932
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib
+lSLF07#2@38"CompileXIB helloUserViewController.xib327382130#327382131#0(0"0(0#0#75"/Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib8621335584#625"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/helloUserViewController.nib /Users/yanlang/Documents/ios_learning/helloUser/helloUserViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app.dSYM /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/helloUser
+r0
+
+CLd /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/helloUser normal i386
+r0
+
+CProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/Info.plist helloUser-Info.plist
+s327382129.021755
+e327382129.091055
+r1
+xProcessInfoPlistFile
+x/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/Info.plist
+xhelloUser-Info.plist
+lSLF07#2@28"Process helloUser-Info.plist327382129#327382129#0(0"0(0#0#68"/Users/yanlang/Documents/ios_learning/helloUser/helloUser-Info.plist27303270316900452#512"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloUser-Info.plist -genpkginfo /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app/Info.plist0#
+
+CProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch.gch helloUser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327382131.491247
+e327382134.527518
+r1
+xProcessPCH
+x/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch.gch
+xhelloUser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile helloUser_Prefix.pch327382131#327382134#0(0"0(0#0#68"/Users/yanlang/Documents/ios_learning/helloUser/helloUser_Prefix.pch8620222944#1934"    cd /Users/yanlang/Documents/ios_learning/helloUser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/helloUser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/helloUser/build/helloUser.build/Debug-iphonesimulator/helloUser.build/DerivedSources -c /Users/yanlang/Documents/ios_learning/helloUser/helloUser_Prefix.pch -o /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloUser_Prefix-hgjbpssdjktgduepwzrrttvcftab/helloUser_Prefix.pch.gch0#
+
+CTouch /Users/yanlang/Documents/ios_learning/helloUser/build/Debug-iphonesimulator/helloUser.app
+r0
+

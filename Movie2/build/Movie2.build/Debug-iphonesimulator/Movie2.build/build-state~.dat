@@ -1,0 +1,287 @@
+TMovie2
+v7
+r0
+t327395622.016953
+cCheck dependencies
+cProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Info.plist Movie2-Info.plist
+cCompileXIB /Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib
+cCompileXIB /Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib
+cProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch.gch Movie2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/Movie2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2AppDelegate.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2ViewController.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2 normal i386
+cGenerateDSYMFile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app.dSYM /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2
+cTouch /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.h
+c000000004DD36CEC0000000000000218
+t1305701612
+s536
+i<Foundation/Foundation.h>
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m
+c000000004DD36DB3000000000000027A
+t1305701811
+s634
+i"Movie.h"
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.h
+c000000004DD368DA00000000000001D7
+t1305700570
+s471
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m
+c000000004DD370890000000000000B30
+t1305702537
+s2864
+i"Movie2AppDelegate.h"
+i"Movie2ViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.h
+c000000004DD36E540000000000000249
+t1305701972
+s585
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m
+c000000004DD3718400000000000008CD
+t1305702788
+s2253
+i"Movie2ViewController.h"
+i"Movie.h"
+
+N/Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib
+c000000004DD368DA0000000000004E1D
+t1305700570
+s19997
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib
+c000000004DD36F200000000000006414
+t1305702176
+s25620
+
+N/Users/yanlang/Documents/ios_learning/Movie2/Movie2_Prefix.pch
+c000000004DD368DA00000000000000B5
+t1305700570
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app
+t1305702821
+s238
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app.dSYM
+t1305702821
+s102
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Info.plist
+t1305702792
+s587
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/MainWindow.nib
+t1305702804
+s1679
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2
+t1305702821
+s25008
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2ViewController.nib
+t1305702805
+s4019
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/PkgInfo
+t1305702792
+s8
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie.o
+t1305702821
+s10888
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2.LinkFileList
+c000000004DD371880000000000000216
+t1305702792
+s534
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2AppDelegate.o
+t1305702820
+s52200
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2ViewController.o
+t1305702820
+s47988
+
+N/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/main.o
+t1305702819
+s6324
+
+N/Users/yanlang/Documents/ios_learning/Movie2/main.m
+c000000004DD368DA0000000000000166
+t1305700570
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch.gch
+t1305702819
+s15814064
+
+NMovie2-Info.plist
+c000000004DD368DA000000000000038D
+t1305700570
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327395592#327395592#0(0"0(0#1#0"8616059552#0"0#
+
+CCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327395620.822533
+e327395621.281826
+r1
+xCompileC
+xbuild/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie.o
+x/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m327395620#327395621#0(0"0(0#0#60"/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m8617506880#1970"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie.m -o /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie.o0#
+
+CCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2AppDelegate.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327395619.819654
+e327395620.271634
+r1
+xCompileC
+xbuild/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2AppDelegate.o
+x/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m327395619#327395620#0(0"0(0#0#72"/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m8615615360#1994"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2AppDelegate.m -o /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2AppDelegate.o0#
+
+CCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2ViewController.o /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327395620.271780
+e327395620.822247
+r1
+xCompileC
+xbuild/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2ViewController.o
+x/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m327395620#327395620#0(0"0(0#0#75"/Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m8615250944#2000"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Movie2/Classes/Movie2ViewController.m -o /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2ViewController.o0#
+
+CCompileC build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/Movie2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327395619.253943
+e327395619.819551
+r1
+xCompileC
+xbuild/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/main.o
+x/Users/yanlang/Documents/ios_learning/Movie2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/yanlang/Documents/ios_learning/Movie2/main.m327395619#327395619#0(0"0(0#0#51"/Users/yanlang/Documents/ios_learning/Movie2/main.m8616143104#1960"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Movie2/main.m -o /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib
+s327395592.595039
+e327395604.368317
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327395592#327395604#0(0"0(0#0#59"/Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib8617449952#587"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/MainWindow.nib /Users/yanlang/Documents/ios_learning/Movie2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib
+s327395604.368595
+e327395606.059762
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib
+lSLF07#2@35"CompileXIB Movie2ViewController.xib327395604#327395606#0(0"0(0#0#69"/Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib8615783520#607"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2ViewController.nib /Users/yanlang/Documents/ios_learning/Movie2/Movie2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app.dSYM /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2
+s327395621.864530
+e327395621.966369
+r1
+xGenerateDSYMFile
+x/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app.dSYM
+x/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Movie2.app.dSYM build/Debug-iphonesimulator/Movie2.app/Movie2327395621#327395621#0(0"0(0#0#90"/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie28615233696#398"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2 -o /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app.dSYM0#
+
+CLd /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2 normal i386
+s327395621.282354
+e327395621.864133
+r1
+xLd
+x/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2
+xnormal
+xi386
+lSLF07#2@95"Link /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie2327395621#327395621#0(0"0(0#0#0"8615220384#925"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -filelist /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Objects-normal/i386/Movie2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Movie20#
+
+CProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Info.plist Movie2-Info.plist
+s327395592.569192
+e327395592.594914
+r1
+xProcessInfoPlistFile
+x/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Info.plist
+xMovie2-Info.plist
+lSLF07#2@25"Process Movie2-Info.plist327395592#327395592#0(0"0(0#0#62"/Users/yanlang/Documents/ios_learning/Movie2/Movie2-Info.plist8615446592#494"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Movie2-Info.plist -genpkginfo /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app/Info.plist0#
+
+CProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch.gch Movie2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327395606.060206
+e327395619.253617
+r1
+xProcessPCH
+x/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch.gch
+xMovie2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Movie2_Prefix.pch327395606#327395619#0(0"0(0#0#62"/Users/yanlang/Documents/ios_learning/Movie2/Movie2_Prefix.pch8615801984#1847"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/Movie2-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Movie2/build/Movie2.build/Debug-iphonesimulator/Movie2.build/DerivedSources -c /Users/yanlang/Documents/ios_learning/Movie2/Movie2_Prefix.pch -o /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie2_Prefix-chggtskggqlecwdhjdywususzout/Movie2_Prefix.pch.gch0#
+
+CTouch /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app
+s327395621.966485
+e327395622.016869
+r1
+xTouch
+x/Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app
+lSLF07#2@89"Touch /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app327395621#327395622#0(0"0(0#0#0"8611579744#289"    cd /Users/yanlang/Documents/ios_learning/Movie2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yanlang/Documents/ios_learning/Movie2/build/Debug-iphonesimulator/Movie2.app0#
+

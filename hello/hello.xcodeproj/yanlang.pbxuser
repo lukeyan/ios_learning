@@ -16,10 +16,10 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* helloViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {712, 871}}";
-			sepNavSelRange = "{1184, 0}";
-			sepNavVisRange = "{671, 735}";
-			sepNavWindowFrame = "{{366, 171}, {750, 558}}";
+			sepNavIntBoundsRect = "{{0, 0}, {985, 871}}";
+			sepNavSelRange = "{1091, 0}";
+			sepNavVisRange = "{787, 611}";
+			sepNavWindowFrame = "{{366, 76}, {750, 670}}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -67,14 +67,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 327317877;
-			PBXWorkspaceStateSaveDate = 327317877;
-		};
-		perUserProjectItems = {
-			32F6507513827D90004373F3 /* PBXBookmark */ = 32F6507513827D90004373F3 /* PBXBookmark */;
-			32F6507F13827E95004373F3 /* PBXBookmark */ = 32F6507F13827E95004373F3 /* PBXBookmark */;
-			32F6508013827E95004373F3 /* PBXTextBookmark */ = 32F6508013827E95004373F3 /* PBXTextBookmark */;
-			32F6508313827E95004373F3 /* PBXTextBookmark */ = 32F6508313827E95004373F3 /* PBXTextBookmark */;
+			PBXPerProjectTemplateStateSaveDate = 327377292;
+			PBXWorkspaceStateSaveDate = 327377292;
 		};
 		sourceControlManager = 32F650701382797B004373F3 /* Source Control */;
 		userBuildSettings = {
@@ -121,33 +115,5 @@
 	32F650711382797B004373F3 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	32F6507513827D90004373F3 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* helloViewController.m */;
-	};
-	32F6507F13827E95004373F3 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* helloViewController.m */;
-	};
-	32F6508013827E95004373F3 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* helloViewController.m */;
-		name = "helloViewController.m: 36";
-		rLen = 0;
-		rLoc = 800;
-		rType = 0;
-		vrLen = 690;
-		vrLoc = 667;
-	};
-	32F6508313827E95004373F3 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* helloViewController.m */;
-		name = "helloViewController.m: 52";
-		rLen = 0;
-		rLoc = 1184;
-		rType = 0;
-		vrLen = 735;
-		vrLoc = 671;
 	};
 }
