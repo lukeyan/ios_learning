@@ -23,7 +23,7 @@
 @property(nonatomic,retain) IBOutlet UILabel *titleLabel;
 @property(nonatomic,retain) IBOutlet UILabel *boxOfficeGrossLabel;
 @property(nonatomic,retain) IBOutlet UILabel *summaryLabel;
-@property(nonatomic,retain) IBOutlet ‰MovieEditorViewController *editingViewController;
+@property(nonatomic,retain) IBOutlet MovieEditorViewController *editingViewController;
 
 -(IBAction)edit;
 

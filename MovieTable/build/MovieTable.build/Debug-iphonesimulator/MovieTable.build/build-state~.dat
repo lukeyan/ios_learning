@@ -1,0 +1,262 @@
+TMovieTable
+v7
+r0
+t327469162.243921
+cCheck dependencies
+cProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/Info.plist MovieTable-Info.plist
+cCompileXIB /Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib
+cCompileXIB /Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib
+cProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch.gch MovieTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/MovieTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTableAppDelegate.o /Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/RootViewController.o /Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable normal i386
+cGenerateDSYMFile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app.dSYM /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable
+cTouch /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.h
+c000000004DD48ECA00000000000001DA
+t1305775818
+s474
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m
+c000000004DD48ECA0000000000000AC9
+t1305775818
+s2761
+i"MovieTableAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.h
+c000000004DD48ECA00000000000000EC
+t1305775818
+s236
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m
+c000000004DD48ECA00000000000010C4
+t1305775818
+s4292
+i"RootViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib
+c000000004DD48ECA0000000000006000
+t1305775818
+s24576
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/MovieTable_Prefix.pch
+c000000004DD48ECA0000000000000146
+t1305775818
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib
+c000000004DD48ECA0000000000004455
+t1305775818
+s17493
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app
+t1305776362
+s238
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app.dSYM
+t1305776362
+s102
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/Info.plist
+t1305776353
+s603
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MainWindow.nib
+t1305776354
+s2459
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable
+t1305776362
+s18168
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/PkgInfo
+t1305776353
+s8
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/RootViewController.nib
+t1305776355
+s1518
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTable.LinkFileList
+c000000004DD490E100000000000001BD
+t1305776353
+s445
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTableAppDelegate.o
+t1305776361
+s53204
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/RootViewController.o
+t1305776361
+s41628
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/main.o
+t1305776361
+s6332
+
+N/Users/yanlang/Documents/ios_learning/MovieTable/main.m
+c000000004DD48ECA000000000000016A
+t1305775818
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch.gch
+t1305776361
+s15814064
+
+NMovieTable-Info.plist
+c000000004DD48ECA000000000000038D
+t1305775818
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327469153#327469153#0(0"0(0#1#0"8609147136#0"0#
+
+CCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTableAppDelegate.o /Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327469161.471758
+e327469161.726678
+r1
+xCompileC
+xbuild/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTableAppDelegate.o
+x/Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m327469161#327469161#0(0"0(0#0#80"/Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m8606810560#2126"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch -c /Users/yanlang/Documents/ios_learning/MovieTable/Classes/MovieTableAppDelegate.m -o /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTableAppDelegate.o0#
+
+CCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/RootViewController.o /Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327469161.726760
+e327469162.000738
+r1
+xCompileC
+xbuild/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/RootViewController.o
+x/Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m327469161#327469162#0(0"0(0#0#77"/Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m8596084448#2120"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch -c /Users/yanlang/Documents/ios_learning/MovieTable/Classes/RootViewController.m -o /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/MovieTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327469161.151159
+e327469161.471667
+r1
+xCompileC
+xbuild/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/main.o
+x/Users/yanlang/Documents/ios_learning/MovieTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/yanlang/Documents/ios_learning/MovieTable/main.m327469161#327469161#0(0"0(0#0#55"/Users/yanlang/Documents/ios_learning/MovieTable/main.m8608927744#2084"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch -c /Users/yanlang/Documents/ios_learning/MovieTable/main.m -o /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib
+s327469153.700673
+e327469154.577126
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327469153#327469154#0(0"0(0#0#63"/Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib8596474688#603"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MainWindow.nib /Users/yanlang/Documents/ios_learning/MovieTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib
+s327469154.577206
+e327469155.732726
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib327469154#327469155#0(0"0(0#0#71"/Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib8603419328#619"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/RootViewController.nib /Users/yanlang/Documents/ios_learning/MovieTable/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app.dSYM /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable
+s327469162.188009
+e327469162.228964
+r1
+xGenerateDSYMFile
+x/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app.dSYM
+x/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MovieTable.app.dSYM build/Debug-iphonesimulator/MovieTable.app/MovieTable327469162#327469162#0(0"0(0#0#102"/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable8596534720#422"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable -o /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app.dSYM0#
+
+CLd /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable normal i386
+s327469162.000816
+e327469162.187920
+r1
+xLd
+x/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable
+xnormal
+xi386
+lSLF07#2@107"Link /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable327469162#327469162#0(0"0(0#0#0"8607095968#965"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -F/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -filelist /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/Objects-normal/i386/MovieTable.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/MovieTable0#
+
+CProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/Info.plist MovieTable-Info.plist
+s327469153.662784
+e327469153.700590
+r1
+xProcessInfoPlistFile
+x/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/Info.plist
+xMovieTable-Info.plist
+lSLF07#2@29"Process MovieTable-Info.plist327469153#327469153#0(0"0(0#0#70"/Users/yanlang/Documents/ios_learning/MovieTable/MovieTable-Info.plist8595948288#518"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MovieTable-Info.plist -genpkginfo /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app/Info.plist0#
+
+CProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch.gch MovieTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327469155.732926
+e327469161.150959
+r1
+xProcessPCH
+x/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch.gch
+xMovieTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MovieTable_Prefix.pch327469155#327469161#0(0"0(0#0#70"/Users/yanlang/Documents/ios_learning/MovieTable/MovieTable_Prefix.pch8608689632#1963"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/MovieTable-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/MovieTable/build/MovieTable.build/Debug-iphonesimulator/MovieTable.build/DerivedSources -c /Users/yanlang/Documents/ios_learning/MovieTable/MovieTable_Prefix.pch -o /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MovieTable_Prefix-fzhtqipfmxcziieljylerwcnkvbb/MovieTable_Prefix.pch.gch0#
+
+CTouch /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app
+s327469162.229067
+e327469162.243879
+r1
+xTouch
+x/Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app
+lSLF07#2@97"Touch /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app327469162#327469162#0(0"0(0#0#0"8596048000#301"    cd /Users/yanlang/Documents/ios_learning/MovieTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yanlang/Documents/ios_learning/MovieTable/build/Debug-iphonesimulator/MovieTable.app0#
+

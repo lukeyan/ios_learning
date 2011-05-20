@@ -1,0 +1,256 @@
+TBrowser
+v7
+r0
+t327470563.129727
+cCheck dependencies
+cProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist Browser-Info.plist
+cCompileXIB /Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib
+cCompileXIB /Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib
+cProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch.gch Browser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/Browser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser normal i386
+cGenerateDSYMFile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app.dSYM /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser
+cTouch /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib
+c000000004DD496010000000000005E48
+t1305777665
+s24136
+
+N/Users/yanlang/Documents/ios_learning/Browser/Browser_Prefix.pch
+c000000004DD491E300000000000000B7
+t1305776611
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.h
+c000000004DD491E200000000000001DD
+t1305776610
+s477
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m
+c000000004DD491E20000000000000AA8
+t1305776610
+s2728
+i"BrowserAppDelegate.h"
+i"BrowserViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.h
+c000000004DD49261000000000000015E
+t1305776737
+s350
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m
+c000000004DD496540000000000000771
+t1305777748
+s1905
+i"BrowserViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib
+c000000004DD491E30000000000004E29
+t1305776611
+s20009
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList
+c000000004DD494BA00000000000001A2
+t1305777338
+s418
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o
+t1305777761
+s51508
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o
+t1305777762
+s44428
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o
+t1305777760
+s6324
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app
+t1305777763
+s238
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app.dSYM
+t1305777763
+s102
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser
+t1305777763
+s18064
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/BrowserViewController.nib
+t1305777671
+s3843
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist
+t1305777338
+s591
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/MainWindow.nib
+t1305777340
+s1681
+
+N/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/PkgInfo
+t1305777338
+s8
+
+N/Users/yanlang/Documents/ios_learning/Browser/main.m
+c000000004DD491E30000000000000167
+t1305776611
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch.gch
+t1305777760
+s15814064
+
+NBrowser-Info.plist
+c000000004DD491E3000000000000038D
+t1305776611
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327470559#327470559#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327470560.984272
+e327470561.252598
+r1
+xCompileC
+xbuild/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o
+x/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m327470560#327470561#0(0"0(0#0#74"/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m8609966304#2027"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserAppDelegate.m -o /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o0#
+
+CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327470561.252681
+e327470562.702679
+r1
+xCompileC
+xbuild/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o
+x/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m327470561#327470562#0(0"0(0#0#77"/Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m8614296480#2033"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Browser/Classes/BrowserViewController.m -o /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o0#
+
+CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/Browser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327470560.753205
+e327470560.984187
+r1
+xCompileC
+xbuild/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o
+x/Users/yanlang/Documents/ios_learning/Browser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/yanlang/Documents/ios_learning/Browser/main.m327470560#327470560#0(0"0(0#0#52"/Users/yanlang/Documents/ios_learning/Browser/main.m8610859360#1991"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch -c /Users/yanlang/Documents/ios_learning/Browser/main.m -o /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib
+s327470470.193345
+e327470471.722117
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib
+lSLF07#2@36"CompileXIB BrowserViewController.xib327470470#327470471#0(0"0(0#0#71"/Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib8611732064#613"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/BrowserViewController.nib /Users/yanlang/Documents/ios_learning/Browser/BrowserViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib
+s327470138.707569
+e327470140.951215
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327470138#327470140#0(0"0(0#0#60"/Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib8596218176#591"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/MainWindow.nib /Users/yanlang/Documents/ios_learning/Browser/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app.dSYM /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser
+s327470563.085488
+e327470563.120742
+r1
+xGenerateDSYMFile
+x/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app.dSYM
+x/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Browser.app.dSYM build/Debug-iphonesimulator/Browser.app/Browser327470563#327470563#0(0"0(0#0#93"/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser8611431936#404"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser -o /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app.dSYM0#
+
+CLd /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser normal i386
+s327470562.702837
+e327470563.085403
+r1
+xLd
+x/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser
+xnormal
+xi386
+lSLF07#2@98"Link /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser327470562#327470563#0(0"0(0#0#0"8611487968#935"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -F/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -filelist /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Browser0#
+
+CProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist Browser-Info.plist
+s327470138.625454
+e327470138.706737
+r1
+xProcessInfoPlistFile
+x/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist
+xBrowser-Info.plist
+lSLF07#2@26"Process Browser-Info.plist327470138#327470138#0(0"0(0#0#64"/Users/yanlang/Documents/ios_learning/Browser/Browser-Info.plist27584981513797680#500"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Browser-Info.plist -genpkginfo /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist0#
+
+CProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch.gch Browser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327470559.250306
+e327470560.752995
+r1
+xProcessPCH
+x/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch.gch
+xBrowser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Browser_Prefix.pch327470559#327470560#0(0"0(0#0#64"/Users/yanlang/Documents/ios_learning/Browser/Browser_Prefix.pch8614035552#1876"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources -c /Users/yanlang/Documents/ios_learning/Browser/Browser_Prefix.pch -o /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hcjwnwpiqjtythfdcpdetsvavtcf/Browser_Prefix.pch.gch0#
+
+CTouch /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app
+s327470563.120817
+e327470563.129684
+r1
+xTouch
+x/Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app
+lSLF07#2@91"Touch /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app327470563#327470563#0(0"0(0#0#0"8609678848#292"    cd /Users/yanlang/Documents/ios_learning/Browser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yanlang/Documents/ios_learning/Browser/build/Debug-iphonesimulator/Browser.app0#
+

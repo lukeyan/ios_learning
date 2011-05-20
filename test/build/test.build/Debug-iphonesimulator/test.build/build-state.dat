@@ -1,0 +1,256 @@
+Ttest
+v7
+r0
+t327557209.321413
+cCheck dependencies
+cProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/Info.plist test-Info.plist
+cCompileXIB /Users/yanlang/Documents/ios_learning/test/MainWindow.xib
+cCompileXIB /Users/yanlang/Documents/ios_learning/test/testViewController.xib
+cProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch.gch test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/test/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testAppDelegate.o /Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testViewController.o /Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test normal i386
+cGenerateDSYMFile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app.dSYM /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test
+cTouch /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.h
+c000000004DD5E66800000000000001CB
+t1305863784
+s459
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m
+c000000004DD5E6680000000000000A99
+t1305863784
+s2713
+i"testAppDelegate.h"
+i"testViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/test/Classes/testViewController.h
+c000000004DD5E66800000000000000E3
+t1305863784
+s227
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m
+c000000004DD5E66800000000000005B3
+t1305863784
+s1459
+i"testViewController.h"
+
+N/Users/yanlang/Documents/ios_learning/test/MainWindow.xib
+c000000004DD5E6680000000000004E05
+t1305863784
+s19973
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app
+t1305864409
+s238
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app.dSYM
+t1305864409
+s102
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/Info.plist
+t1305864370
+s579
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/MainWindow.nib
+t1305864389
+s1675
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/PkgInfo
+t1305864370
+s8
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test
+t1305864409
+s16936
+
+N/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/testViewController.nib
+t1305864390
+s1269
+
+N/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o
+t1305864408
+s6320
+
+N/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList
+c000000004DD5E8B10000000000000181
+t1305864369
+s385
+
+N/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testAppDelegate.o
+t1305864408
+s51152
+
+N/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testViewController.o
+t1305864408
+s37892
+
+N/Users/yanlang/Documents/ios_learning/test/main.m
+c000000004DD5E7450000000000000165
+t1305864005
+s357
+i<UIKit/UIKit.h>
+
+N/Users/yanlang/Documents/ios_learning/test/testViewController.xib
+c000000004DD5E6680000000000001A39
+t1305863784
+s6713
+
+N/Users/yanlang/Documents/ios_learning/test/test_Prefix.pch
+c000000004DD5E66800000000000000B1
+t1305863784
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch.gch
+t1305864407
+s15814064
+
+Ntest-Info.plist
+c000000004DD5E668000000000000038D
+t1305863784
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327557169#327557170#0(0"0(0#1#0"8609131456#0"0#
+
+CCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/yanlang/Documents/ios_learning/test/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327557207.447783
+e327557208.268708
+r1
+xCompileC
+xbuild/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o
+x/Users/yanlang/Documents/ios_learning/test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/yanlang/Documents/ios_learning/test/main.m327557207#327557208#0(0"0(0#0#49"/Users/yanlang/Documents/ios_learning/test/main.m8598063104#1898"    cd /Users/yanlang/Documents/ios_learning/test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch -c /Users/yanlang/Documents/ios_learning/test/main.m -o /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o0#
+
+CCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testAppDelegate.o /Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327557208.268798
+e327557208.585912
+r1
+xCompileC
+xbuild/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testAppDelegate.o
+x/Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m327557208#327557208#0(0"0(0#0#68"/Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m8606422432#1928"    cd /Users/yanlang/Documents/ios_learning/test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch -c /Users/yanlang/Documents/ios_learning/test/Classes/testAppDelegate.m -o /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testAppDelegate.o0#
+
+CCompileC build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testViewController.o /Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327557208.585997
+e327557208.816595
+r1
+xCompileC
+xbuild/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testViewController.o
+x/Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m327557208#327557208#0(0"0(0#0#71"/Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m8609224128#1934"    cd /Users/yanlang/Documents/ios_learning/test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources -include /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch -c /Users/yanlang/Documents/ios_learning/test/Classes/testViewController.m -o /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/testViewController.o0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/test/MainWindow.xib
+s327557170.420740
+e327557189.983805
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327557170#327557189#0(0"0(0#0#57"/Users/yanlang/Documents/ios_learning/test/MainWindow.xib8606325152#579"    cd /Users/yanlang/Documents/ios_learning/test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/MainWindow.nib /Users/yanlang/Documents/ios_learning/test/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/yanlang/Documents/ios_learning/test/testViewController.xib
+s327557189.984034
+e327557190.784166
+r1
+xCompileXIB
+x/Users/yanlang/Documents/ios_learning/test/testViewController.xib
+lSLF07#2@33"CompileXIB testViewController.xib327557189#327557190#0(0"0(0#0#65"/Users/yanlang/Documents/ios_learning/test/testViewController.xib8605555360#595"    cd /Users/yanlang/Documents/ios_learning/test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/testViewController.nib /Users/yanlang/Documents/ios_learning/test/testViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app.dSYM /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test
+s327557209.199103
+e327557209.301356
+r1
+xGenerateDSYMFile
+x/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app.dSYM
+x/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/test.app.dSYM build/Debug-iphonesimulator/test.app/test327557209#327557209#0(0"0(0#0#84"/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test8608950880#386"    cd /Users/yanlang/Documents/ios_learning/test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test -o /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app.dSYM0#
+
+CLd /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test normal i386
+s327557208.816676
+e327557209.198922
+r1
+xLd
+x/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test
+xnormal
+xi386
+lSLF07#2@89"Link /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test327557208#327557209#0(0"0(0#0#0"8609122432#905"    cd /Users/yanlang/Documents/ios_learning/test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -F/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -filelist /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/test0#
+
+CProcessInfoPlistFile /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/Info.plist test-Info.plist
+s327557170.096801
+e327557170.420637
+r1
+xProcessInfoPlistFile
+x/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/Info.plist
+xtest-Info.plist
+lSLF07#2@23"Process test-Info.plist327557170#327557170#0(0"0(0#0#58"/Users/yanlang/Documents/ios_learning/test/test-Info.plist12666816341278818#482"    cd /Users/yanlang/Documents/ios_learning/test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility test-Info.plist -genpkginfo /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app/Info.plist0#
+
+CProcessPCH /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch.gch test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327557190.784375
+e327557207.447594
+r1
+xProcessPCH
+x/var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch.gch
+xtest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile test_Prefix.pch327557190#327557207#0(0"0(0#0#58"/Users/yanlang/Documents/ios_learning/test/test_Prefix.pch8604789056#1789"    cd /Users/yanlang/Documents/ios_learning/test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -F/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator -I/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/include -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/yanlang/Documents/ios_learning/test/build/test.build/Debug-iphonesimulator/test.build/DerivedSources -c /Users/yanlang/Documents/ios_learning/test/test_Prefix.pch -o /var/folders/YZ/YZ5zjc54HqG7uEfgN-igAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_Prefix-dsivxqgxwnzluhddkbbmxhtettzu/test_Prefix.pch.gch0#
+
+CTouch /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app
+s327557209.301443
+e327557209.321360
+r1
+xTouch
+x/Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app
+lSLF07#2@85"Touch /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app327557209#327557209#0(0"0(0#0#0"8606662080#283"    cd /Users/yanlang/Documents/ios_learning/test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yanlang/Documents/ios_learning/test/build/Debug-iphonesimulator/test.app0#
+
